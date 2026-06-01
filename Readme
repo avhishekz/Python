@@ -8,72 +8,81 @@ All notebooks were created and executed using **Google Colab** as part of hands-
 
 ## 📚 Notebook Overview
 
-| Module | Topic | Concepts Covered |
-|----------|----------|------------------|
-| 1 | Python Fundamentals | Variables, Strings, Print Statements |
-| 2 | Operators | Arithmetic, Assignment, Comparison, Logical Operators |
-| 3 | Data Structures | Lists, Tuples |
-| 4 | Control Flow | If-Else Statements |
-| 5 | Loops & Iteration | For Loops, While Loops, FizzBuzz |
-| 6 | Functions | Function Definition, Parameters, Return Values |
-| 7 | File Handling | Create, Read, Append Files |
-| 8 | Object-Oriented Programming | Classes, Objects, Constructors |
-| 9 | Advanced OOP | Inheritance, Encapsulation, Abstraction |
-| 10 | NumPy | Arrays, Reshaping, Iteration |
-| 11 | Pandas | DataFrames and Data Analysis Basics |
-| 12 | Data Visualization | Line, Bar, Pie, Histogram, Scatter Plots |
+| Module | Topic                       | Concepts Covered                                      |
+| ------ | --------------------------- | ----------------------------------------------------- |
+| 1      | Python Fundamentals         | Variables, Strings, Print Statements                  |
+| 2      | Operators                   | Arithmetic, Assignment, Comparison, Logical Operators |
+| 3      | Data Structures             | Lists, Tuples                                         |
+| 4      | Control Flow                | If-Else Statements                                    |
+| 5      | Loops & Iteration           | For Loops, While Loops, FizzBuzz                      |
+| 6      | Functions                   | Function Definition, Parameters, Return Values        |
+| 7      | File Handling               | Create, Read, Append Files                            |
+| 8      | Object-Oriented Programming | Classes, Objects, Constructors                        |
+| 9      | Advanced OOP                | Inheritance, Encapsulation, Abstraction               |
+| 10     | NumPy                       | Arrays, Reshaping, Iteration                          |
+| 11     | Pandas                      | DataFrames and Data Analysis Basics                   |
+| 12     | Data Visualization          | Line, Bar, Pie, Histogram, Scatter Plots              |
 
 ---
 
 ## 🧠 Topics Covered
 
-- **Python Fundamentals**
-  - Variables and Data Types
-  - Strings
-  - Input and Output
-  - Operators
+* **Python Fundamentals**
 
-- **Data Structures**
-  - Lists
-  - Tuples
+  * Variables and Data Types
+  * Strings
+  * Input and Output
+  * Operators
 
-- **Control Flow**
-  - Conditional Statements
-  - For Loops
-  - While Loops
+* **Data Structures**
 
-- **Functions**
-  - Function Definitions
-  - Parameters and Arguments
-  - Return Values
+  * Lists
+  * Tuples
 
-- **File Handling**
-  - Creating Files
-  - Reading Files
-  - Appending Data
+* **Control Flow**
 
-- **Object-Oriented Programming**
-  - Classes and Objects
-  - Constructors (`__init__`)
-  - Inheritance
-  - Encapsulation
-  - Abstraction
+  * Conditional Statements
+  * For Loops
+  * While Loops
 
-- **NumPy**
-  - Arrays
-  - Reshaping
-  - Array Iteration
+* **Functions**
 
-- **Pandas**
-  - DataFrames
-  - Basic Data Manipulation
+  * Function Definitions
+  * Parameters and Arguments
+  * Return Values
 
-- **Data Visualization**
-  - Line Charts
-  - Bar Charts
-  - Pie Charts
-  - Histograms
-  - Scatter Plots
+* **File Handling**
+
+  * Creating Files
+  * Reading Files
+  * Appending Data
+
+* **Object-Oriented Programming**
+
+  * Classes and Objects
+  * Constructors (`__init__`)
+  * Inheritance
+  * Encapsulation
+  * Abstraction
+
+* **NumPy**
+
+  * Arrays
+  * Reshaping
+  * Array Iteration
+
+* **Pandas**
+
+  * DataFrames
+  * Basic Data Manipulation
+
+* **Data Visualization**
+
+  * Line Charts
+  * Bar Charts
+  * Pie Charts
+  * Histograms
+  * Scatter Plots
 
 ---
 
@@ -109,12 +118,12 @@ Python/
 
 ## 🛠️ Libraries Used
 
-| Library | Purpose |
-|----------|----------|
-| NumPy | Numerical Computing and Array Operations |
-| Pandas | Data Analysis and Manipulation |
-| Matplotlib | Data Visualization and Plotting |
-| abc | Abstract Base Classes |
+| Library    | Purpose                                  |
+| ---------- | ---------------------------------------- |
+| NumPy      | Numerical Computing and Array Operations |
+| Pandas     | Data Analysis and Manipulation           |
+| Matplotlib | Data Visualization and Plotting          |
+| abc        | Abstract Base Classes                    |
 
 ---
 
@@ -149,33 +158,33 @@ You can also open any notebook directly in **Google Colab** and run it without a
 
 Through these notebooks, the following concepts were explored:
 
-- Python programming fundamentals
-- Data structures and control flow
-- Function design and modular programming
-- File handling techniques
-- Object-Oriented Programming principles
-- Numerical computing with NumPy
-- Data manipulation using Pandas
-- Data visualization using Matplotlib
+* Python programming fundamentals
+* Data structures and control flow
+* Function design and modular programming
+* File handling techniques
+* Object-Oriented Programming principles
+* Numerical computing with NumPy
+* Data manipulation using Pandas
+* Data visualization using Matplotlib
 
 ---
 
 ## 📅 Learning Timeline
 
-| Period | Topics Covered |
-|----------|---------------|
-| January 2024 | Python Basics, Operators, Lists |
-| February 2024 | Tuples, Functions, Loops |
-| March 2024 | File Handling and OOP |
-| April 2024 | Advanced OOP, NumPy, Pandas, Matplotlib |
+| Period        | Topics Covered                          |
+| ------------- | --------------------------------------- |
+| January 2024  | Python Basics, Operators, Lists         |
+| February 2024 | Tuples, Functions, Loops                |
+| March 2024    | File Handling and OOP                   |
+| April 2024    | Advanced OOP, NumPy, Pandas, Matplotlib |
 
 ---
 
 ## 📌 Notes
 
-- All notebooks were developed as part of a structured Python learning program.
-- Code was primarily executed using Google Colab.
-- This repository documents the progression from Python fundamentals to introductory Data Science concepts.
+* All notebooks were developed as part of a structured Python learning program.
+* Code was primarily executed using Google Colab.
+* This repository documents the progression from Python fundamentals to introductory Data Science concepts.
 
 ---
 
