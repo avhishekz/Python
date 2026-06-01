@@ -1,6 +1,6 @@
 # 🐍 Python Learning Notebooks
 
-A collection of Python practice notebooks developed during a structured learning journey from **January 2024 to April 2024**. This repository covers fundamental Python programming concepts, Object-Oriented Programming (OOP), and introductory Data Science topics using **NumPy**, **Pandas**, and **Matplotlib**.
+A collection of Python practice notebooks developed during a structured learning journey from **January 2024 to April 2024**. This repository covers fundamental Python programming concepts, **Object-Oriented Programming (OOP)**, and introductory **Data Science** topics using **NumPy**, **Pandas**, and **Matplotlib**.
 
 All notebooks were created and executed using **Google Colab** as part of hands-on learning and experimentation.
 
@@ -9,43 +9,36 @@ All notebooks were created and executed using **Google Colab** as part of hands-
 ## 📚 Notebook Overview
 
 | Module | Topic | Concepts Covered |
-|----------|----------|------------------|
+| -------- | -------- | -------- |
 | 1 | Python Fundamentals | Variables, Strings, Print Statements |
 | 2 | Operators | Arithmetic, Assignment, Comparison, Logical Operators |
 | 3 | Data Structures | Lists, Tuples |
 | 4 | Control Flow | If-Else Statements |
 | 5 | Loops & Iteration | For Loops, While Loops, FizzBuzz |
 | 6 | Functions | Function Definition, Parameters, Return Values |
-| 7 | File Handling | Create, Read, Append Files |
+| 7 | File Handling | Creating, Reading, and Appending Files |
 | 8 | Object-Oriented Programming | Classes, Objects, Constructors |
 | 9 | Advanced OOP | Inheritance, Encapsulation, Abstraction |
 | 10 | NumPy | Arrays, Reshaping, Iteration |
-| 11 | Pandas | DataFrames and Data Analysis Basics |
+| 11 | Pandas | DataFrames and Data Analysis |
 | 12 | Data Visualization | Line Plots, Bar Charts, Pie Charts, Histograms, Scatter Plots |
 
 ---
 
 ## 🧠 Topics Covered
 
-### Python Fundamentals
+### Python Programming
 - Variables and Data Types
-- Strings
-- Input and Output
+- Strings and String Manipulation
 - Operators
+- Input and Output
+- Conditional Statements
+- Loops and Iteration
+- Functions and Return Values
 
 ### Data Structures
 - Lists
 - Tuples
-
-### Control Flow
-- Conditional Statements
-- For Loops
-- While Loops
-
-### Functions
-- Function Definitions
-- Parameters and Arguments
-- Return Values
 
 ### File Handling
 - Creating Files
@@ -59,21 +52,10 @@ All notebooks were created and executed using **Google Colab** as part of hands-
 - Encapsulation
 - Abstraction
 
-### NumPy
-- Arrays
-- Reshaping
-- Array Iteration
-
-### Pandas
-- DataFrames
-- Basic Data Manipulation
-
-### Data Visualization
-- Line Charts
-- Bar Charts
-- Pie Charts
-- Histograms
-- Scatter Plots
+### Data Science Libraries
+- NumPy
+- Pandas
+- Matplotlib
 
 ---
 
@@ -107,41 +89,48 @@ Python/
 
 ---
 
-## 🛠️ Libraries Used
+## 🛠️ Technologies Used
 
-| Library | Purpose |
-|----------|----------|
-| NumPy | Numerical Computing and Array Operations |
+| Technology | Purpose |
+| ---------- | ---------- |
+| Python | Core Programming Language |
+| Google Colab | Notebook Execution Environment |
+| NumPy | Numerical Computing |
 | Pandas | Data Analysis and Manipulation |
-| Matplotlib | Data Visualization and Plotting |
-| abc | Abstract Base Classes |
+| Matplotlib | Data Visualization |
 
 ---
 
 ## ▶️ Getting Started
 
-### Clone the Repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/avhishekz/Python.git
 cd Python
 ```
 
-### Install Dependencies
+Install the required libraries:
 
 ```bash
 pip install numpy pandas matplotlib notebook
 ```
 
-### Launch Jupyter Notebook
+Launch Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
 
+### Google Colab
+
+You can also open any notebook directly in **Google Colab** and run it without local setup.
+
 ---
 
 ## 🎯 Learning Outcomes
+
+Through these notebooks, the following concepts were explored:
 
 - Python Programming Fundamentals
 - Data Structures and Control Flow
@@ -157,11 +146,22 @@ jupyter notebook
 ## 📅 Learning Timeline
 
 | Period | Topics Covered |
-|----------|---------------|
+| -------- | -------- |
 | January 2024 | Python Basics, Operators, Lists |
 | February 2024 | Tuples, Functions, Loops |
 | March 2024 | File Handling and OOP |
 | April 2024 | Advanced OOP, NumPy, Pandas, Matplotlib |
+
+---
+
+## 🎓 Learning Information
+
+| | |
+| --- | --- |
+| **Repository Type** | Python Learning & Practice |
+| **Platform** | Google Colab |
+| **Duration** | January 2024 – April 2024 |
+| **Language** | Python |
 
 ---
 
