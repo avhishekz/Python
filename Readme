@@ -78,7 +78,7 @@ Click any `.ipynb` file in this repo and hit the **"Open in Colab"** button at t
 
 ### Run Locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/Python.git
+git clone https://github.com/avhishekz/Python.git
 cd Python
 pip install numpy pandas matplotlib jupyter
 jupyter notebook
