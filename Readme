@@ -1,117 +1,117 @@
 # 🐍 Python Learning Notebooks
 
-A collection of Python practice notebooks covering fundamental programming concepts, Object-Oriented Programming (OOP), and introductory Data Science topics. These notebooks were created and executed using **Google Colab** as part of a structured learning journey from **January 2024 to April 2024**.
+A collection of Python practice notebooks developed during a structured learning journey from **January 2024 to April 2024**. The repository covers core Python programming concepts, Object-Oriented Programming (OOP), and introductory Data Science topics using **NumPy**, **Pandas**, and **Matplotlib**.
+
+All notebooks were created and executed using **Google Colab** as part of hands-on learning and experimentation.
 
 ---
 
-## 📚 Learning Modules
+## 📚 Notebook Overview
 
-### Python Fundamentals
-
-* `Basic_python.ipynb` — Variables, strings, print statements
-* `Operators_24_jan.ipynb` — Arithmetic, assignment, and logical operators
-* `13_march.ipynb` — Conditional statements (if-else)
-
-### Data Structures
-
-* `31_jan_24_order_pizza_nd_list_nd_random_fns.ipynb` — Lists and random module
-* `2_feb_age_prg_,_TUPPLE.ipynb` — Tuples and mini-projects
-
-### Loops & Iteration
-
-* `7_feb.ipynb` — For loops and FizzBuzz
-* `9_feb.ipynb` — While loops, break, and else
-* `1_march.ipynb` — List iteration techniques
-
-### Functions
-
-* `14_feb_FUNCTION.ipynb` — Function definition and usage
-* `23_feb.ipynb` — Functions with return values
-
-### File Handling
-
-* `14_march.ipynb` — Creating, reading, and appending files
-
-### Object-Oriented Programming (OOP)
-
-* `18_march_OOP.ipynb` — Classes and objects
-* `20_march.ipynb` — Constructors (`__init__`) and attributes
-* `22_march.ipynb` — Multiple inheritance
-* `27_march.ipynb` — OOP principles and inheritance types
-* `3_April.ipynb` — Encapsulation
-* `5_april_absrtract_class_nd_methods.ipynb` — Abstract classes and methods
-
-### NumPy & Pandas
-
-* `8_April_(Numpy).ipynb` — NumPy arrays and operations
-* `10_April_NUMPY_&_PANDAS.ipynb` — NumPy and Pandas fundamentals
-
-### Data Visualization
-
-* `12_April_GRAPH.ipynb` — Line, bar, pie charts, and histograms
-* `13_APRIL_(SCATTER_PLOT,BAR_CHART,HISTOGRAM).ipynb` — Scatter plots and histograms
-
----
-
-## 🗓️ Learning Timeline
-
-| Period        | Topics Covered                                      |
-| ------------- | --------------------------------------------------- |
-| January 2024  | Python fundamentals, operators, lists               |
-| February 2024 | Tuples, functions, loops                            |
-| March 2024    | File handling and Object-Oriented Programming       |
-| April 2024    | Advanced OOP, NumPy, Pandas, and Data Visualization |
+| Module | Topic                       | Concepts Covered                                      |
+| ------ | --------------------------- | ----------------------------------------------------- |
+| 1      | Python Fundamentals         | Variables, Strings, Print Statements                  |
+| 2      | Operators                   | Arithmetic, Assignment, Comparison, Logical Operators |
+| 3      | Data Structures             | Lists, Tuples                                         |
+| 4      | Control Flow                | If-Else Statements                                    |
+| 5      | Loops                       | For Loops, While Loops, FizzBuzz                      |
+| 6      | Functions                   | Function Definition, Parameters, Return Values        |
+| 7      | File Handling               | Create, Read, Append Files                            |
+| 8      | Object-Oriented Programming | Classes, Objects, Constructors                        |
+| 9      | Advanced OOP                | Inheritance, Encapsulation, Abstraction               |
+| 10     | NumPy                       | Arrays, Reshaping, Iteration                          |
+| 11     | Pandas                      | DataFrames and Data Analysis Basics                   |
+| 12     | Data Visualization          | Line, Bar, Pie, Histogram, Scatter Plots              |
 
 ---
 
 ## 🧠 Topics Covered
 
+* **Python Fundamentals**
+
+  * Variables and Data Types
+  * Strings
+  * Operators
+  * User Input and Output
+
+* **Data Structures**
+
+  * Lists
+  * Tuples
+
+* **Control Flow**
+
+  * Conditional Statements
+  * For Loops
+  * While Loops
+
+* **Functions**
+
+  * Function Definitions
+  * Arguments and Parameters
+  * Return Values
+
+* **File Handling**
+
+  * Creating Files
+  * Reading Files
+  * Appending Data
+
+* **Object-Oriented Programming**
+
+  * Classes and Objects
+  * Constructors (`__init__`)
+  * Inheritance
+  * Encapsulation
+  * Abstraction
+
+* **NumPy**
+
+  * Arrays
+  * Reshaping
+  * Iteration
+
+* **Pandas**
+
+  * DataFrames
+  * Basic Data Manipulation
+
+* **Matplotlib**
+
+  * Line Charts
+  * Bar Charts
+  * Pie Charts
+  * Histograms
+  * Scatter Plots
+
+---
+
+## 📂 Repository Structure
+
 ```text
 Python/
 │
-├── Python Fundamentals
-│   ├── Variables & Data Types
-│   ├── Strings
-│   ├── Operators
-│   └── Conditional Statements
-│
-├── Data Structures
-│   ├── Lists
-│   └── Tuples
-│
-├── Control Flow
-│   ├── For Loops
-│   └── While Loops
-│
-├── Functions
-│   ├── Function Definitions
-│   └── Return Values
-│
-├── File Handling
-│   ├── Create Files
-│   ├── Read Files
-│   └── Append Data
-│
-├── Object-Oriented Programming
-│   ├── Classes & Objects
-│   ├── Inheritance
-│   ├── Encapsulation
-│   └── Abstraction
-│
-├── NumPy
-│   ├── Arrays
-│   ├── Reshaping
-│   └── Iteration
-│
-├── Pandas
-│   └── DataFrames
-│
-└── Matplotlib
-    ├── Line Charts
-    ├── Bar Charts
-    ├── Pie Charts
-    ├── Histograms
-    └── Scatter Plots
+├── Basic_python.ipynb
+├── Operators_24_jan.ipynb
+├── 31_jan_24_order_pizza_nd_list_nd_random_fns.ipynb
+├── 2_feb_age_prg_,_TUPPLE.ipynb
+├── 7_feb.ipynb
+├── 9_feb.ipynb
+├── 14_feb_FUNCTION.ipynb
+├── 23_feb.ipynb
+├── 1_march.ipynb
+├── 13_march.ipynb
+├── 14_march.ipynb
+├── 18_march_OOP.ipynb
+├── 20_march.ipynb
+├── 22_march.ipynb
+├── 27_march.ipynb
+├── 3_April.ipynb
+├── 5_april_absrtract_class_nd_methods.ipynb
+├── 8_April_(Numpy).ipynb
+├── 10_April_NUMPY_&_PANDAS.ipynb
+├── 12_April_GRAPH.ipynb
+└── 13_APRIL_(SCATTER_PLOT,BAR_CHART,HISTOGRAM).ipynb
 ```
 
 ---
@@ -120,10 +120,10 @@ Python/
 
 | Library    | Purpose                                  |
 | ---------- | ---------------------------------------- |
-| NumPy      | Numerical computing and array operations |
-| Pandas     | Data manipulation and analysis           |
-| Matplotlib | Data visualization and plotting          |
-| abc        | Abstract Base Classes                    |
+| NumPy      | Numerical Computing and Array Operations |
+| Pandas     | Data Analysis and Manipulation           |
+| Matplotlib | Data Visualization                       |
+| abc        | Abstract Base Classes for OOP            |
 
 ---
 
@@ -152,23 +152,36 @@ jupyter notebook
 
 ## 🎯 Learning Outcomes
 
-* Understanding Python programming fundamentals
-* Working with data structures and control flow
-* Writing reusable functions
-* File handling in Python
-* Applying Object-Oriented Programming concepts
-* Performing numerical computations with NumPy
-* Data manipulation using Pandas
-* Creating visualizations with Matplotlib
+Through these notebooks, the following concepts were explored:
+
+* Python Programming Fundamentals
+* Problem Solving and Logical Thinking
+* Data Structures and Control Flow
+* Object-Oriented Programming Principles
+* File Handling Techniques
+* Numerical Computing with NumPy
+* Data Analysis using Pandas
+* Data Visualization with Matplotlib
+
+---
+
+## 📅 Learning Timeline
+
+| Period        | Topics Covered                          |
+| ------------- | --------------------------------------- |
+| January 2024  | Python Basics, Operators, Lists         |
+| February 2024 | Tuples, Functions, Loops                |
+| March 2024    | File Handling and OOP                   |
+| April 2024    | Advanced OOP, NumPy, Pandas, Matplotlib |
 
 ---
 
 ## 📌 Notes
 
-* All notebooks were developed for learning and practice purposes.
-* Programs were primarily executed using Google Colab.
-* The repository documents a structured Python learning journey from beginner to intermediate concepts.
+* All notebooks were developed as part of a structured Python learning program.
+* Code was primarily executed using Google Colab.
+* This repository documents the progression from Python fundamentals to introductory Data Science concepts.
 
 ---
 
-⭐ Feel free to explore the notebooks and follow the progression of concepts from Python basics to introductory Data Science.
+⭐ Feel free to explore the notebooks and follow the learning journey from beginner Python concepts to data analysis and visualization.
