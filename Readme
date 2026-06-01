@@ -1,12 +1,11 @@
-# 🐍 Python Learning Notebooks
+🐍 Python Learning Notebooks
 
 A collection of Python practice notebooks developed during a structured learning journey from **January 2024 to April 2024**. This repository covers fundamental Python programming concepts, Object-Oriented Programming (OOP), and introductory Data Science topics using **NumPy**, **Pandas**, and **Matplotlib**.
 
 All notebooks were created and executed using **Google Colab** as part of hands-on learning and experimentation.
 
----
 
-## 📚 Notebook Overview
+📚 Notebook Overview
 
 | Module | Topic                       | Concepts Covered                                      |
 | ------ | --------------------------- | ----------------------------------------------------- |
@@ -23,72 +22,70 @@ All notebooks were created and executed using **Google Colab** as part of hands-
 | 11     | Pandas                      | DataFrames and Data Analysis Basics                   |
 | 12     | Data Visualization          | Line, Bar, Pie, Histogram, Scatter Plots              |
 
----
 
-## 🧠 Topics Covered
 
-* **Python Fundamentals**
+🧠 Topics Covered
 
-  * Variables and Data Types
-  * Strings
-  * Input and Output
-  * Operators
+Python Fundamentals
 
-* **Data Structures**
+   Variables and Data Types
+   Strings
+   Input and Output
+   Operators
 
-  * Lists
-  * Tuples
+Data Structures
 
-* **Control Flow**
+  Lists
+  Tuples
 
-  * Conditional Statements
-  * For Loops
-  * While Loops
+Control Flow
 
-* **Functions**
+  Conditional Statements
+  For Loops
+  While Loops
 
-  * Function Definitions
-  * Parameters and Arguments
-  * Return Values
+Functions
 
-* **File Handling**
+  Function Definitions
+  Parameters and Arguments
+  Return Values
 
-  * Creating Files
-  * Reading Files
-  * Appending Data
+File Handling
 
-* **Object-Oriented Programming**
+  Creating Files
+  Reading Files
+  Appending Data
 
-  * Classes and Objects
-  * Constructors (`__init__`)
-  * Inheritance
-  * Encapsulation
-  * Abstraction
+Object-Oriented Programming
 
-* **NumPy**
+  Classes and Objects
+  Constructors (`__init__`)
+  Inheritance
+  Encapsulation
+  Abstraction
 
-  * Arrays
-  * Reshaping
-  * Array Iteration
+NumPy
 
-* **Pandas**
+  Arrays
+  Reshaping
+  Array Iteration
 
-  * DataFrames
-  * Basic Data Manipulation
+Pandas
 
-* **Data Visualization**
+  DataFrames
+  Basic Data Manipulation
 
-  * Line Charts
-  * Bar Charts
-  * Pie Charts
-  * Histograms
-  * Scatter Plots
+Data Visualization
 
----
+  Line Charts
+  Bar Charts
+  Pie Charts
+  Histograms
+  Scatter Plots
 
-## 📂 Repository Structure
 
-```text
+📂 Repository Structure
+
 Python/
 │
 ├── Basic_python.ipynb
@@ -112,11 +109,9 @@ Python/
 ├── 10_April_NUMPY_&_PANDAS.ipynb
 ├── 12_April_GRAPH.ipynb
 └── 13_APRIL_(SCATTER_PLOT,BAR_CHART,HISTOGRAM).ipynb
-```
 
----
 
-## 🛠️ Libraries Used
+🛠️ Libraries Used
 
 | Library    | Purpose                                  |
 | ---------- | ---------------------------------------- |
@@ -125,9 +120,8 @@ Python/
 | Matplotlib | Data Visualization and Plotting          |
 | abc        | Abstract Base Classes                    |
 
----
 
-## ▶️ Getting Started
+▶️ Getting Started
 
 Clone the repository:
 
@@ -148,28 +142,25 @@ Launch Jupyter Notebook:
 jupyter notebook
 ```
 
-### Google Colab
+Google Colab
 
 You can also open any notebook directly in **Google Colab** and run it without any local setup.
 
----
-
-## 🎯 Learning Outcomes
+🎯 Learning Outcomes
 
 Through these notebooks, the following concepts were explored:
 
-* Python programming fundamentals
-* Data structures and control flow
-* Function design and modular programming
-* File handling techniques
-* Object-Oriented Programming principles
-* Numerical computing with NumPy
-* Data manipulation using Pandas
-* Data visualization using Matplotlib
+Python programming fundamentals
+Data structures and control flow
+Function design and modular programming
+File handling techniques
+Object-Oriented Programming principles
+Numerical computing with NumPy
+Data manipulation using Pandas
+Data visualization using Matplotlib
 
----
 
-## 📅 Learning Timeline
+📅 Learning Timeline
 
 | Period        | Topics Covered                          |
 | ------------- | --------------------------------------- |
@@ -178,14 +169,11 @@ Through these notebooks, the following concepts were explored:
 | March 2024    | File Handling and OOP                   |
 | April 2024    | Advanced OOP, NumPy, Pandas, Matplotlib |
 
----
+📌 Notes
 
-## 📌 Notes
+All notebooks were developed as part of a structured Python learning program.
+Code was primarily executed using Google Colab.
+This repository documents the progression from Python fundamentals to introductory Data Science concepts.
 
-* All notebooks were developed as part of a structured Python learning program.
-* Code was primarily executed using Google Colab.
-* This repository documents the progression from Python fundamentals to introductory Data Science concepts.
-
----
 
 ⭐ This repository serves as a practical reference for beginners learning Python programming and foundational Data Science concepts through hands-on notebook implementations.
