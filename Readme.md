@@ -80,13 +80,3 @@ The notebooks demonstrate fundamental programming concepts, data structures, obj
 * Enhanced Documentation
 
 ---
-
-## 👨‍💻 Author
-
-**Abhishek Kumar**
-
-B.Tech Computer Science Student
-
-Interests: Python • Data Science • Cyber Security • Artificial Intelligence
-
-⭐ Feel free to star this repository if you find it useful.
